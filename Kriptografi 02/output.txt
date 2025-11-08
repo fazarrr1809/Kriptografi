@@ -1,23 +1,8 @@
-=== Hasil Tugas Mini Kriptografi 02 ===
+=== Caesar Cipher ===
+Ciphertext: DWWDFN DW GDZQ
+Dekripsi: ATTACK AT DAWN
 
-Plaintext [1]: CRYPTOGRAPHY IS FUN
-  Caesar Encrypt : FUBSWRJUDSKB LV IXQ
-  Caesar Decrypt : CRYPTOGRAPHY IS FUN
-  Vigenère Key   : LEMON
-  Vigenère Encrypt : NVKDGZKDOCSC WF JGB
-  Vigenère Decrypt : CRYPTOGRAPHY IS FUN
-
-Plaintext [2]: KEEP THE SECRET SAFE
-  Caesar Encrypt : NHHS WKH VHFUHW VDIH
-  Caesar Decrypt : KEEP THE SECRET SAFE
-  Vigenère Key   : LEMON
-  Vigenère Encrypt : VIQD ELQ FPGDSG WMTR
-  Vigenère Decrypt : KEEP THE SECRET SAFE
-
-Plaintext [3]: PYTHON MAKES IT SIMPLE
-  Caesar Encrypt : SBWKRQ PDNHV LW VLPSOH
-  Caesar Decrypt : PYTHON MAKES IT SIMPLE
-  Vigenère Key   : LEMON
-  Vigenère Encrypt : ACFVBY YOXPW WG WUACWI
-  Vigenère Decrypt : PYTHON MAKES IT SIMPLE
-
+=== Vigenère Cipher ===
+Kunci: LEMON
+Ciphertext: LXFOPV MH OEIB
+Dekripsi: ATTACK AT DAWN
